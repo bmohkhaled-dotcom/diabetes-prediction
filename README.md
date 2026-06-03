@@ -27,7 +27,12 @@ https://machine-project-git-htqeua4nvzmhs39ppo39ck.streamlit.app/
   | Precision|      0.534       |    0.476      |  0.550     |
   | Recall   |      0.569       |    0.474      |  0.580     |
   | F1 Score |      0.498       |    0.475      |  0.533     |
-  ## based on results the random forest is the best algorithm for our machine learning model
+  ### based on results the random forest is the best algorithm for our machine learning model
+  ## Confusion Matrix
+  <img width="522" height="470" alt="download (17)" src="https://github.com/user-attachments/assets/696f8558-3792-42e7-81ac-c8d36277690c" />
+ ### Confusion Matrix Interpretation
+The confusion matrix shows the performance of the Random Forest model across the three readmission classes. The model achieved its best performance in predicting patients who were readmitted after 30 days (Class 2), while the distinction between patients not readmitted (Class 0) and those readmitted within 30 days (Class 1) was more challenging. This indicates that the model captures long-term readmission patterns more effectively than short-term readmission outcomes.
+
 
            
 
