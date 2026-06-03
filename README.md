@@ -20,7 +20,9 @@ https://machine-project-git-htqeua4nvzmhs39ppo39ck.streamlit.app/
  joblib
  streamlit
  ## Video
- https://export-download.canva.com/79ff84c2-aaca-4b32-ab63-585cf0d86d2e/0-4811475551354273725.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260602T213304Z&X-Amz-Expires=63994&X-Amz-Signature=778e77e24e95fdd17e73e56ffd79690df99766cc448ae2397b8a60af4377a9ca&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Diabetes%2520Readmission%2520Prediction.mp4&response-expires=Wed%2C%2003%20Jun%202026%2015%3A19%3A38%20GMT
+
+
+
  
 ## Team
 Basel Mohamed
