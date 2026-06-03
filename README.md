@@ -9,3 +9,16 @@ This project focuses on predicting diabetes-related hospital readmission using t
 The dataset is not fully clean, as it contains missing values represented by “?” and requires preprocessing, including handling missing data, encoding categorical variables, and removing duplicates. After data cleaning, exploratory data analysis was performed to understand relationships between variables and readmission outcomes. Feature engineering was applied to create new variables such as total patient visits.
 
 Multiple machine learning models, including Logistic Regression, Random Forest, and Decision Tree, were trained and compared using evaluation metrics such as accuracy, precision, recall, and F1-score. The best-performing model was selected after hyperparameter tuning using GridSearchCV. Finally, the trained model was deployed using a Streamlit web application to provide real-time predictions of whether a diabetic patient is likely to be readmitted.
+## Data set source
+https://www.kaggle.com/datasets/brandao/diabetes?select=diabetic_data.csv
+## Live Demo
+https://machine-project-git-htqeua4nvzmhs39ppo39ck.streamlit.app/
+## Liberies
+ pandas
+ numpy
+ matplotlib.pyplot
+ LabelEncoder
+ StandardScaler
+ GridSearchCV
+ joblib
+ streamlit
