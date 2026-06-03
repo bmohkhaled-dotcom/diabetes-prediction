@@ -20,9 +20,6 @@ https://machine-project-git-htqeua4nvzmhs39ppo39ck.streamlit.app/
  joblib
  streamlit
  ## Video
-
-
-
- 
+https://drive.google.com/file/d/1Z-TamGQQtk1r7GpVa0CtocqxpvTnKe9d/view?usp=sharing
 ## Team
 Basel Mohamed
