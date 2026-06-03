@@ -17,8 +17,7 @@ https://machine-project-git-htqeua4nvzmhs39ppo39ck.streamlit.app/
  pandas
  numpy
  matplotlib.pyplot
- LabelEncoder
- StandardScaler
- GridSearchCV
  joblib
  streamlit
+## Team
+Basel Mohamed
