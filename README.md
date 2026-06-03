@@ -19,5 +19,7 @@ https://machine-project-git-htqeua4nvzmhs39ppo39ck.streamlit.app/
  matplotlib.pyplot
  joblib
  streamlit
+ ## Video
+ https://s43-hzfi.freeconvert.com/task/6a20303b9417e6ca31308ce9/Diabetes%20Readmission%20Prediction.mp4
 ## Team
 Basel Mohamed
