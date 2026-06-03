@@ -22,11 +22,12 @@ https://machine-project-git-htqeua4nvzmhs39ppo39ck.streamlit.app/
 - streamlit
   ## Results
   ## Accuracy,precision,F1score and Recall
-  	-       Logestic Regression	Decision Tree	Random Forest
-  	- Accuracy	     0.569	      0.474	        0.580
-  	- Precision	    0.534       	0.476	        0.550
-  	- Recall	       0.569	      0.474	        0.580
-  	- F1 score      0.498         0.475	        0.533
+  | Metric | Logistic Regression | Decision Tree | Random Forest |
+|----------|----------|----------|----------|
+| Accuracy | 0.569 | 0.474 | 0.580 |
+| Precision | 0.534 | 0.476 | 0.550 |
+| Recall | 0.569 | 0.474 | 0.580 |
+| F1 Score | 0.498 | 0.475 | 0.533 |
   
 
 
